@@ -61,8 +61,8 @@ h1 {
 
 /* gang image */
 #gang-image {
-    height: 1400px;
+    height: 900px;
     width: 100%;
     background: url('../images/gang.jpg') no-repeat center;
-    background-size: 1800px;
+    background-size: 1072px;
 }

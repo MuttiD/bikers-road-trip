@@ -1,4 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); /* imported from Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Do+Hyeon&display=swap'); /* imported from Google fonts */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-color: rgb(87, 84, 84);
+}
 
 .active {
     border-bottom: 1px solid white;  /* states or highlights where the user is in the browser */
@@ -7,23 +15,54 @@
 /* logo */
 #logo {
     float: left;
-    font-size: 300%;
+    font-size: 350%;
     margin-left: 45px;
+    color: white;
 }
 
 h1 {
     font-family: 'Bebas Neue', cursive;
     text-transform: uppercase;
-    letter-spacing: 3px;
-    /*color: white;*/
+    letter-spacing: 3px;   
 }
 
 /* navigation links */
 #menu {
+    font-family: 'Do Hyeon', sans-serif;
     font-size: 100%;
     letter-spacing: 3px;
+    color: rgb(233, 233, 212);
 }
+
+
 
 #menu, #logo {
     line-height: 90px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 45px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid red;
+}
+
+.message {
+    color: white;
+}
+
+/* gang image */
+#gang-image {
+    height: 1400px;
+    width: 100%;
+    background: url('../images/gang.jpg') no-repeat center;
+    background-size: 1800px;
 }

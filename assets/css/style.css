@@ -18,6 +18,7 @@
     font-size: 350%;
     margin-left: 45px;
     color: white;
+    /*height: 100px;*/
 }
 
 h1 {
@@ -56,13 +57,68 @@ h1 {
 }
 
 .message {
+    font-family: 'Do Hyeon', sans-serif;
     color: white;
+    text-align: center;
 }
 
 /* gang image */
+
+#gang-outer {
+    height: 657px;
+    width: 100%;
+    overflow: hidden;       /* ensures the image and its styling kept for itself only */
+    padding: 0;
+}
+
 #gang-image {
-    height: 900px;
+    height: 657px;
     width: 100%;
     background: url('../images/gang-smSize.jpg') no-repeat center;
     background-size: 950px;
+
+    position: relative;
+}
+
+/* cover text style */
+
+#cover-text, #cover-text h2, #cover-text h3 {       /* change original background/styles */
+    color: gold;
+    background: none;        
+}
+
+#cover-text {
+    font-family: 'Bebas Neue', cursive;
+    color: gold;
+    font-size: 200%;
+
+    text-align: center;
+
+    letter-spacing: 5px;
+    width: 412px;
+    height: 161px;
+
+    padding: 0;
+    margin: 0;
+    
+    bottom: 350px;
+    right: 365px;
+    
+    position: absolute;
+    /*z-index: auto;*/
+        
+    animation: cover-zoom;      /* naming the animation */
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+
+
+}
+
+@keyframes cover-zoom {      /* creates the level of zoom for cover text by 1.3x */
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.3);
+    }
 }

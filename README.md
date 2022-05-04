@@ -1,3 +1,13 @@
+
+
+<h2>Issues</h2>
+
+Issue related to font awesome.
+"The icon simply doesn't show, instead a tiny little box took place"
+Is this something related to getting a new kit from Website ?
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome MuttiD,

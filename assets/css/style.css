@@ -152,7 +152,7 @@ h1 {
     position: relative;
 }
 
-/* form */
+/* styling form */
 
 .text-input {
     background: transparent;
@@ -162,4 +162,29 @@ h1 {
     margin: 5px 0 20px 0;
     border: 2px solid white;
     
+}
+
+
+/* Styling Footer */
+
+footer {
+    height: 150px;
+    background-color: white;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media > li {
+    display: inline;
+    background-color: white;
+}
+
+.social-media i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+    background-color: white;
 }

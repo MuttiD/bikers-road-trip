@@ -188,3 +188,16 @@ footer {
     color: #3a3a3a;
     background-color: white;
 }
+
+/* Styling Gallery */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
+}
+
+#photos > img {
+    width: 90%;
+}

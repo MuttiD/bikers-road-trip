@@ -189,7 +189,7 @@ footer {
 .social-media i {
     font-size: 160%;
     margin: 1%;
-    padding: 5%;
+    padding: 1%;
     color: #3a3a3a;
     background-color: white;
 }
@@ -210,24 +210,24 @@ footer {
 
 /* Styling Shop Page */
 
-.shop {
-    font-size: 110%;
+#title-shop {
+    clear: both;
+
+    font-size: 150%;
     font-family: 'Bebas Neue', cursive;
     letter-spacing: 3px;
     color: gold;
     text-decoration: underline;
     
     text-align: center;
-    display: block;
-
-    clear: both;
+    /*display: block;*/
 
     height: 60px;
     
 }
 
 .shop-box {
-    width: 300px;
+    width: 220px;
     /* height: 100%;*/
 }
 
@@ -235,16 +235,25 @@ footer {
     overflow: hidden;
     object-fit: contain;
     padding: 10px;
+    padding-bottom: 45px;
     border: 2px solid white;
     margin: 0;
-    
+    position: relative;
+    left: 300px;
 }
 
 .right-piece {
     overflow: hidden;
     object-fit: contain;
     padding: 10px;
+    padding-bottom: 45px;
     border: 2px solid white;
     margin: 0;
     position: relative;
+    left: 700px;
+    bottom: 380px;
+}
+
+.white-text {
+    color: white;
 }

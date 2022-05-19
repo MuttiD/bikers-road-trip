@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     border: none;
-    background-color: rgb(87, 84, 84);
+    background-color: black;
 }
 
 .active {
@@ -72,7 +72,7 @@ h1 {
     background: url('../images/gang-smSize.jpg') no-repeat center;
     background-size: 950px;
 
-    position: relative;
+    /*position: relative;*/
 }
 
 /* cover text style */
@@ -98,14 +98,12 @@ h1 {
     height: 161px;
 
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
     
-    bottom: 350px;
-    right: 365px;
-    
-    
-    position: absolute;
-            
+    bottom: 425px;
+    /*right: 365px;*/
+    position: relative;
+                
     animation: cover-zoom;      /* naming the animation */
     animation-duration: 3s;
     animation-fill-mode: forwards;
@@ -256,4 +254,18 @@ footer {
 
 .white-text {
     color: white;
+}
+
+/* Styling Form */
+
+.form {
+    border: 2px solid white;
+    margin: 150px 10% 0 0;
+    color: white;
+    padding: 45px;
+    max-width: 500px;
+}
+
+.join-button {
+    color: wheat;
 }

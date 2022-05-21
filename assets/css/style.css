@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Do+Hyeon&display=swap'); /* imported from Google fonts */
 
 
-* {
+* {                                     /* Selects all elements */
     margin: 0;
     padding: 0;
     border: none;
@@ -98,7 +98,7 @@ h1 {
     height: 161px;
 
     padding: 0;
-    margin: 0 auto;
+    margin: 0 auto;             /* vertical | horizontal */
     
     bottom: 425px;
     /*right: 365px;*/
@@ -142,7 +142,8 @@ h1 {
     height: 150px;
     width: 250px;
 
-    padding: 20px;
+    margin: auto;
+    padding: 15px;
     border: solid 3px bisque;
     display: inline-block;
 
@@ -267,5 +268,25 @@ footer {
 }
 
 .join-button {
-    color: wheat;
+    background-color: blue;
+    color: white;
+    padding: 0.5rem;
 }
+
+#reset-button {
+    background-color: green;
+    color: white;
+    padding: 0.5rem;
+}
+
+
+/* Styling Maps Box */
+
+/*.maps-box {
+    position: absolute;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 20px;
+    border: 0;
+}*/

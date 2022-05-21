@@ -5,6 +5,10 @@
     margin: 0;
     padding: 0;
     border: none;
+    /*background-color: black;*/
+}
+
+.body {
     background-color: black;
 }
 
@@ -133,16 +137,16 @@ h1 {
     height: 120px;
 }
 
-/* styling legs */
+/* styling leg boxes */
 .leg-box {
     font-size: medium;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: bisque;
 
-    height: 150px;
-    width: 250px;
+    height: 130px;
+    /*width: 80%;*/
 
-    margin: auto;
+    margin: 0 auto;
     padding: 15px;
     border: solid 3px bisque;
     display: inline-block;
@@ -157,7 +161,7 @@ h1 {
     color: white;
     width: 100%;
     height: 25px;
-    margin: 5px 0 20px 0;
+    margin: 15px auto;
     border: 2px solid white;
     
 }
@@ -167,7 +171,7 @@ h1 {
 
 h4 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
+    color: black;
     text-align: center;
 }
 
@@ -261,10 +265,10 @@ footer {
 
 .form {
     border: 2px solid white;
-    margin: 150px 10% 0 0;
+    margin: 60px auto;
     color: white;
     padding: 45px;
-    max-width: 500px;
+    max-width: 400px;
 }
 
 .join-button {
@@ -280,13 +284,5 @@ footer {
 }
 
 
-/* Styling Maps Box */
 
-/*.maps-box {
-    position: absolute;
-    padding: 0;
-    width: 100%;
-    height: 100%;
-    margin-bottom: 20px;
-    border: 0;
-}*/
+

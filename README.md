@@ -1,23 +1,12 @@
 
 
-<h2>Issues</h2>
-
-<p>Issue related to font awesome.
-"The icon simply doesn't show, instead a tiny little box took place"
-Is this something related to getting a new kit from Website ?
-</p>
-
-<p> Struggling to position cover-text and leg boxes in the center of the page.
-When size of screen changes, the position of these entities don't follow the changing.
-</p>
-
-
-
 # Bikers Road Trip
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+Bikers Road Trip are some events taking place in a few scenic spots in Ireland and the aim is to gather those bikers insterested in taking a long run relaxed trip trough Cork and Kerry Counties.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+Not only that but also they will have the opportunity to meeting new peers and get along with them. The event will provide any necessary information on the three trips expected: from Kinsale Marina, a beautiful spot in County Cork, passing through Glengarriff towards Tralee, passing through the Rings of Kerry, which is one of the most visited road for biker and motor people from Ireland and abroad.
+
+
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
@@ -29,59 +18,70 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - The navigation bar is featured on all pages and include links to the Logo, Home, Gallery and Shop pages and is identical in each page for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
 - __The gang image__
 
-  - The section includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - This section includes a photograph with an animated text overlay showing dozens of bikers gathered in a road.
+  - This is intended to incorporate the spirit of brotherhood among bikers. "Love to ride, ride to live" is one of their motto.
+  - It also shows a warmth message inviting riders from Ireland and abroad to join a lifetime adventure.
+  
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
 - __The leg boxes section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - In this section, it is presented the starting and finish points where the riders to take off and rest respectively. It also shows the lenght of each trip.
+   
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+- __Join Form__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section features a form, where the interested rider will fill in order for him or her to be able to attend the event(s).
+  - This section will be updated as the events will be taking place. 
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
-- __The Footer__ 
+- __The Find Us Section__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - This section is just to ilustrate where the event creators are located with a live google map.
+  It is in the heart of one of the most vibrant city in Ireland: Cork
+  
+
+![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+
+- __The Footer__
+
+- The footer section includes links to the relevant social media sites for The Bikers Road Trip. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
+
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery is showing photos of some of the past events. 
+  - This section is extremely important to the event because it shows to the visitor what this is all about: fun, socialising and relaxing. 
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Sign Up Page__
+- __The Shop Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to be able to order some of the outfits used for thousands of motor riders in the world.
+  - They will be required to specify quantities and submit their query in the email provided, so that the organizers will be able to process their orders and dispach their products.
+ 
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
-- Another feature idea
+- There will be space for a "Special Needs Assistance" page where any part of the family or friend who wants to join the event were unable to attend due to their disability, the issue could be addressed to the organizers in advance and taking into account.
+- In this regard, some features such as adapted bikes will be considered and put in place on the day of the event.
 
 ## Testing 
 
@@ -90,6 +90,14 @@ In this section, you need to convince the assessor that you have conducted enoug
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+
+<h2>Issues</h2>
+
+<p>Issue related to font awesome.
+"The icon simply doesn't show, instead a tiny little box took place"
+It was thought, initially, this could be something related to getting a new kit from Website. But in fact, it was only necessary to add another "fa" into the linke and the problem was sorted.
+</p>
+
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
@@ -131,8 +139,7 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The photos used on the home, gallery and shop pages are from Pexel website
 
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 

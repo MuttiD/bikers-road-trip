@@ -59,22 +59,22 @@
     <!-- leg boxes -->
     <section>
         <div class="leg-box">
-            <h3><i class="fa fa-duotone fa-circle-arrow-right"></i> First Leg</h3>
-            <p><i class="fa fa-light fa-location-dot"></i> Start Point: Kinsale Marina</p>
+            <h3 class="underline"><i class="fa fa-duotone fa-circle-arrow-right fa-ar-color"></i>First Leg</h3>
+            <p><i class="fa fa-light fa-location-dot fa-loc-color"></i> Start Point: Kinsale Marina</p>
             <p>   End Point: Mizen Head</p>
             <hr>
             <p>115 km</p>
         </div>
         <div class="leg-box">
-            <h3><i class="fa fa-duotone fa-circle-arrow-right"></i> Second Leg</h3>
-            <p><i class="fa fa-light fa-location-dot"></i> Start Point: Glengarriff</p>
+            <h3 class="underline"><i class="fa fa-duotone fa-circle-arrow-right fa-ar-color"></i>Second Leg</h3>
+            <p><i class="fa fa-light fa-location-dot fa-loc-color"></i> Start Point: Glengarriff</p>
             <p>End Point: Killarney</p>
             <hr>
             <p>90 km</p>
         </div>
         <div class="leg-box">
-            <h3><i class="fa fa-duotone fa-circle-arrow-right"></i> Third Leg</h3>
-            <p><i class="fa fa-light fa-location-dot"></i> Start Point: Tralee</p>
+            <h3 class="underline"><i class="fa fa-duotone fa-circle-arrow-right fa-ar-color"></i>Third Leg</h3>
+            <p><i class="fa fa-light fa-location-dot fa-loc-color"></i> Start Point: Tralee</p>
             <p>End Point: Ennis</p>
             <hr>
             <p>150 km</p>
@@ -97,19 +97,33 @@
 
                     <label for="city">City</label>
                     <input class="text-input" id="city" name="city" type="text" required>
-
-                    <!-- add here the thick boxes for State and Country-->
-                    
-                    
-                    
+                           
+                                   
                     <label for="phone">Phone</label>
                     <input class="text-input" id="phone" name="phone" type="number" required>
 
                     <label for="password">Enter your password</label>
                     <input class="text-input" id="password" name="password" type="password" required>
 
+                    <p>Please select which legs you will be participating:</p>
+                    <p> </p>
+
+                    <label for="1st Leg">1st Leg</label>
+                    <input type="checkbox" value="1st Leg">
+
+
+                    <label for="2nd Leg" class="pad-leg">2nd Leg</label>
+                    <input type="checkbox" value="2nd Leg">
+
+                    <label for="3rd Leg">3rd Leg</label>
+                    <input type="checkbox" value="3rd Leg">
+                    <hr>
+                    
                     <input class="join-button" type="submit" value="Join!">
                     <input id="reset-button" type="reset" value="Reset">
+
+                    
+                    
             </fieldset>
         </form>
     </section>

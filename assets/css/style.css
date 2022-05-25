@@ -301,7 +301,7 @@ footer {
 }
 
 .pad-leg {
-    padding-left: 3px;
+    padding-left: 30px;
 }
 
 /* Styling Map Section */
@@ -321,12 +321,17 @@ footer {
     letter-spacing: 2px;
 }
 
+#style-map #map-box {
+    overflow: hidden;
+    width: 100%;
+    margin-bottom: 35px;    
+}
 
 /* media queries */
 
-/* for larger to medium screens size up to 1000px */
+/* for larger to medium screens size up to 1100px */
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1100px) {
     .message {
         font-size: 100%;
     }
@@ -335,4 +340,26 @@ footer {
         font-size: 100%;
     }
 }
+
+
+/* for medium screen sizes 850px and below */
+
+@media screen and (max-width: 850px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px; 
+    }
+
+    .message {
+        width: 50%;
+        margin: 0 auto;
+
+    }
+
+}
+
+    
 

@@ -5,11 +5,11 @@
     margin: 0;
     padding: 0;
     border: none;
-    /*background-color: black;*/
+    
 }
 
 .body {
-    background-color: black;
+    background-color: rgb(27, 2, 2);
 }
 
 .active {
@@ -22,7 +22,7 @@
     font-size: 350%;
     margin-left: 45px;
     color: white;
-    /*height: 100px;*/
+    
 }
 
 h1 {
@@ -76,7 +76,7 @@ h1 {
     background: url('../images/gang-smSize.jpg') no-repeat center;
     background-size: 950px;
 
-    /*position: relative;*/
+    
 }
 
 /* cover text style */
@@ -105,7 +105,6 @@ h1 {
     margin: 0 auto;             /* vertical | horizontal */
     
     bottom: 425px;
-    /*right: 365px;*/
     position: relative;
                 
     animation: cover-zoom;      /* naming the animation */
@@ -276,6 +275,29 @@ footer {
 .white-text {
     color: white;
 }
+
+.shop-h2 {
+    clear: both;
+
+    font-size: 150%;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3px;
+    color: gold;
+    text-decoration: underline;
+    
+    text-align: center;
+    
+    height: 60px;
+}
+
+.shop-ph {
+    margin: 0 auto;
+    padding: 30px;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
 
 /* Styling Form */
 

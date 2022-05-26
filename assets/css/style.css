@@ -228,7 +228,7 @@ footer {
 
 /* Styling Shop Page */
 
-#title-shop {
+.title-shop {
     clear: both;
 
     font-size: 150%;
@@ -304,7 +304,7 @@ footer {
     padding: 0.5rem;
 }
 
-.pad-leg {
+.pad_leg {
     padding-left: 30px;
 }
 

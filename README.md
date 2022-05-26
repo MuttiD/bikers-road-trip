@@ -2,17 +2,15 @@
 
 # Bikers Road Trip
 
-Bikers Road Trip are some events taking place in a few scenic spots in Ireland and the aim is to gather those bikers insterested in taking a long run relaxed trip trough Cork and Kerry Counties.
+Bikers Road Trip is a place where some events taking place in a few scenic spots in Ireland and the aim is to gather those bikers insterested in taking a long run relaxed trip trough Cork and Kerry Counties.
 
-Not only that but also they will have the opportunity to meeting new peers and get along with them. The event will provide any necessary information on the three trips expected: from Kinsale Marina, a beautiful spot in County Cork, passing through Glengarriff towards Tralee, passing through the Rings of Kerry, which is one of the most visited road for biker and motor people from Ireland and abroad.
+Not only that but also the bikers will have the opportunity to meeting new peers and get along with them. The event coordinators will provide any necessary information on the three trips expected: from Kinsale Marina, a beautiful spot in County Cork, passing through Glengarriff towards Tralee, passing through the Rings of Kerry, which is one of the most visited roads for bikers and motor people from Ireland and abroad.
 
 
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
@@ -27,7 +25,7 @@ In this section, you should go over the different parts of your project, and des
 
   - This section includes a photograph with an animated text overlay showing dozens of bikers gathered in a road.
   - This is intended to incorporate the spirit of brotherhood among bikers. "Love to ride, ride to live" is one of their motto.
-  - It also shows a warmth message inviting riders from Ireland and abroad to join a lifetime adventure.
+  - It also shows a warmth animated message inviting riders from Ireland and abroad to join a lifetime adventure.
   
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
@@ -48,8 +46,8 @@ In this section, you should go over the different parts of your project, and des
 
 - __The Find Us Section__ 
 
-  - This section is just to ilustrate where the event creators are located with a live google map.
-  It is in the heart of one of the most vibrant city in Ireland: Cork
+  - This section is just to ilustrate where the event creators are located with a live google map link.
+  - It is in the heart of one of the most vibrant city in Ireland: Cork
   
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
@@ -57,7 +55,7 @@ In this section, you should go over the different parts of your project, and des
 - __The Footer__
 
 - The footer section includes links to the relevant social media sites for The Bikers Road Trip. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+- The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
@@ -72,7 +70,7 @@ In this section, you should go over the different parts of your project, and des
 - __The Shop Page__
 
   - This page will allow the user to be able to order some of the outfits used for thousands of motor riders in the world.
-  - They will be required to specify quantities and submit their query in the email provided, so that the organizers will be able to process their orders and dispach their products.
+  - They will be required to specify quantities and submit them to the cart (educational purposes only) so that the organizers will be able to process their orders and dispach their products.
  
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
@@ -81,7 +79,7 @@ In this section, you should go over the different parts of your project, and des
 ### Features Left to Implement
 
 - There will be space for a "Special Needs Assistance" page where any part of the family or friend who wants to join the event were unable to attend due to their disability, the issue could be addressed to the organizers in advance and taking into account.
-- In this regard, some features such as adapted bikes will be considered and put in place on the day of the event.
+- In this regard, some features such as adapted bikes will be granted to those who would want to join the event.
 
 ## Testing 
 

@@ -12,9 +12,7 @@
     background-color: rgb(27, 2, 2);
 }
 
-.active {
-    border-bottom: 1px solid white;  /* states or highlights where the user is in the browser */
-}
+
 
 /* logo styling */
 #logo {
@@ -59,7 +57,9 @@ h1 {
     border-bottom: 2px solid rgb(233, 233, 212);
 }
 
-
+.active {
+    border-bottom: 1px solid rgb(233, 233, 212);  /* states or highlights where the user is in the browser */
+}
 
 /* gang image */
 
@@ -238,65 +238,47 @@ footer {
     text-decoration: underline;
     
     text-align: center;
-    /*display: block;*/
-
+    
     height: 60px;
     
 }
 
 .shop-box {
     width: 220px;
-    /* height: 100%;*/
+    
 }
 
 .left-piece {
     overflow: hidden;
     object-fit: contain;
     padding: 10px;
-    padding-bottom: 45px;
+    padding-bottom: 20px;
     border: 2px solid white;
     margin: 0;
     position: relative;
-    left: 300px;
+    left: 70px;
 }
 
 .right-piece {
     overflow: hidden;
     object-fit: contain;
     padding: 10px;
-    padding-bottom: 45px;
+    padding-bottom: 15px;
     border: 2px solid white;
     margin: 0;
     position: relative;
-    left: 700px;
-    bottom: 380px;
+    left: 340px;
+    bottom: 438px;
 }
 
 .white-text {
     color: white;
-}
-
-.shop-h2 {
-    clear: both;
-
-    font-size: 150%;
-    font-family: 'Bebas Neue', cursive;
-    letter-spacing: 3px;
-    color: gold;
-    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: 700;
     
-    text-align: center;
-    
-    height: 60px;
 }
 
-.shop-ph {
-    margin: 0 auto;
-    padding: 30px;
-    width: 50%;
-    display: flex;
-    flex-wrap: wrap;
-}
 
 
 /* Styling Form */
